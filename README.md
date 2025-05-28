@@ -1,6 +1,6 @@
 # Welcome to Blogger (A Simple, Intuitive, Minimalistic Blogging App)
 
-### The site is hosted online. Click [here](https://blogger-frontend-uy5o.onrender.com) to visit it.
+### The site is hosted online. Click [here](https://blogger-frontend-beta.vercel.app) to visit it.
 
 ### Screenshot:
 
